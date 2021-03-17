@@ -17,7 +17,10 @@ $ python train.py
 
 To sample the model:
 ```bash
-$ python sample.py 100
+$ python sample.py
 ```
+
+after running mopy the notes generated and paste in https://www.abcjs.net/abcjs-editor.html to hear.
+
 
 Training loss/accuracy is stored in `logs/training_log.csv`.
