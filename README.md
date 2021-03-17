@@ -20,7 +20,7 @@ To sample the model:
 $ python sample.py
 ```
 
-after running mopy the notes generated and paste in https://www.abcjs.net/abcjs-editor.html to hear.
+after running copy the notes generated and paste in https://www.abcjs.net/abcjs-editor.html to hear.
 
 
 Training loss/accuracy is stored in `logs/training_log.csv`.
